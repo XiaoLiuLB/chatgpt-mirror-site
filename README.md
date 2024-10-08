@@ -34,6 +34,8 @@
 - [https://chatgptmirror.com/](https://chatgptmirror.com/)
 - [http://huangkz.chat](http://huangkz.chat)
 - [https://openai.tdp.icu](https://openai.tdp.icu)
+- [https://chat.2.bnu120.space/]([https://openai.tdp.icu](https://chat.2.bnu120.space/)) - 无需登陆，界面简洁，免费使用，国内可以访问 （2023-8-30）
+- [https://c.binjie.fun/](https://c.binjie.fun/) - 免费可用（2023-12-1）
 
 ## 国内自研大模型汇总
 
